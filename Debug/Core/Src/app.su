@@ -1,0 +1,2 @@
+../Core/Src/app.c:30:6:press_a_button	8	static
+../Core/Src/app.c:40:6:blink_a_led	8	static
